@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print("Hello, name!")
+choice = input("Enter your choice (rock, paper, scissors): ")
+print ("Your choice:", choice)
+random_choice = random.choice(["rock", "paper", "scissors"])
